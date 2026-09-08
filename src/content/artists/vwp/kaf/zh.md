@@ -156,11 +156,11 @@ seo:
 ### 2024年至今：代代木「怪歌」、新企划「廻花」与海外展开
 
 - **2024年**
-  - **1月3日**：与 岸田繁 合作《[愛のまま](/zh/songs/kaf/suites/愛のまま-still-in-love)》，宣布第一期「[组曲](/zh/albums/kaf/suite)」15 曲完结。
+  - **1月3日**：与 岸田繁 合作《[愛のまま](/zh/songs/kaf/suites/%E6%84%9B%E3%81%AE%E3%81%BE%E3%81%BE-still-in-love)》，宣布第一期「[组曲](/zh/albums/kaf/suite)」15 曲完结。
   - **1月14日**：于国立代代木竞技场第一体育馆举办 4th ONE-MAN LIVE「怪歌」，并于现场惊喜公布以虚拟创作歌手身份活动的新企划「{{ruby::廻花::かいか::kaika}}」。
-  - **2月28日**：启动「组曲2」企划（首作与 #KTちゃん 合作《ギミギミ逃避行》）。
+  - **2月28日**：启动「组曲2」企划（首作与 \#KTちゃん 合作《ギミギミ逃避行》）。
   - **3月**：在涩谷 BEAM 举办「花譜展4」；发行 Remix 专辑《[狂想γ](/zh/albums/kaf/kyoso-gamma)》与《[组曲](/zh/albums/kaf/suite)》专辑。
-  - **4月24日**：发布「[廻花](/zh/artists/solo/kaika)」首支单曲《[かいか](/zh/songs/kaika/originals/kaika)》及 Live 演集 MV；5月发布由 Kanata Okajima & Jazzin’Park 制作的单曲《[ゲシュタルト](/zh/songs/kaf/originals/ゲシュタルト-gestalt)》。
+  - **4月24日**：发布「[廻花](/zh/artists/solo/kaika)」首支单曲《[かいか](/zh/songs/kaika/originals/kaika)》及 Live 演集 MV；5月发布由 Kanata Okajima & Jazzin’Park 制作的单曲《[ゲシュタルト](/zh/songs/kaf/originals/%E3%82%B2%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AB%E3%83%88-gestalt)》。
   - **6月21日**：YouTube 官方频道订阅人数正式突破 100 万。
   - **8月 / 9月**：参演「KAMITSUBAKI FES '24」；与 理芽 举办「Singularity Live Vol.3」。
   - **11月2日**：于幕张展览馆举办「怪歌（再）」重构演唱会。
@@ -169,8 +169,10 @@ seo:
   - **4月**：为电视动画《中禅寺先生物怪讲义录》演唱片头主题曲；参演美国芝加哥「Anime Central 2025」与印尼雅加达「AFA 2025」。
   - **9月12日**：官宣首场中国专场演唱会「宿声」China 1st Solo Live。
 - **2026年**
+  - **3月2日**：于横滨 PIA ARENA MM 举办 5th ONE-MAN LIVE「宿声/深愛」
   - **5月27日**：发售 5th 个人专辑《深爱》。
   - **5月30日**：在香港亚洲国际博览馆十号馆顺利举办「宿声 in Hong Kong」个人演唱会。
+  - **9月6日**：于横滨 太平洋会展中心 国立大礼堂 举办 5th ONE-MAN LIVE「宿声/深愛（巡）」
 
 ## 代表作品与视听
 
@@ -200,7 +202,9 @@ seo:
 8. **2023年3月4日 3rd ONE-MAN LIVE「不可解参（想）」** (虚拟空间 LIVE)
 9. **2024年1月14日 4th ONE-MAN LIVE「怪歌」** (国立代代木竞技场第一体育馆)
 10. **2024年11月2日 4th ONE-MAN LIVE「怪歌（再）」** (幕张展览馆)
-11. **2026年5月30日 ONE-MAN LIVE「宿声 in Hong Kong」** (香港亚洲国际博览馆)
+11. **2026年3月2日 5th ONE-MAN LIVE「宿声/深愛」**（横滨PIA ARENA MM）
+12. **2026年5月30日 ONE-MAN LIVE「宿声 in Hong Kong」** (香港亚洲国际博览馆)
+13. **2026年9月6日 5th ONE-MAN LIVE「宿声  深愛（巡）」**（横滨太平洋会展中心 国立大礼堂）
 
 {{/details}}
 
